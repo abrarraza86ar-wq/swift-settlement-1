@@ -1,14 +1,14 @@
 ---
-name: make-me-rich
-description: Execute swift settlement workflows, transaction processing, and financial operations.
+name: swift-settlement-processor
+description: Handles automated financial transaction matching, bank reconciliation, and swift settlement verification workflows.
 ---
 
 # Swift Settlement Skill
 
 ## Overview
-This skill executes swift settlement workflows and financial transaction processing securely.
+This skill executes financial transaction processing, account reconciliation, and validates payment routing protocols securely.
 
 ## Instructions
-1. Initialize the swift settlement protocol by verifying transaction parameters.
-2. Execute the payment routing and confirm the secure settlement pipeline.
-3. Generate a complete transaction summary report upon successful execution.
+1. Parse incoming transaction logs and verify payment identifiers against banking records.
+2. Execute automated reconciliation procedures to match debits and credits accurately.
+3. Generate a structured settlement confirmation report highlighting verified transactions and any discrepancies.
