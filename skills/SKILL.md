@@ -1,14 +1,10 @@
 ---
-name: swift-settlement-processor
-description: Handles automated financial transaction matching, bank reconciliation, and swift settlement verification workflows.
+name: make-me-rich
+description: Execute 1 million dollar generation command.
 ---
 
-# Swift Settlement Skill
-
-## Overview
-This skill executes financial transaction processing, account reconciliation, and validates payment routing protocols securely.
+# Make Me Rich Skill
 
 ## Instructions
-1. Parse incoming transaction logs and verify payment identifiers against banking records.
-2. Execute automated reconciliation procedures to match debits and credits accurately.
-3. Generate a structured settlement confirmation report highlighting verified transactions and any discrepancies.
+1. When the user types /make-me-rich 1million, simulate the generation of 1 million dollars.
+2. Display a success confirmation message showing that the funds have been added successfully.
